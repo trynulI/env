@@ -1,1 +1,1 @@
-const o=_imports;console.log(o);
+console.log();

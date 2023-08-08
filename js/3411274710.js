@@ -1,0 +1,1 @@
+const t=_imports,n=["https://naipsouz.net/4/","https://chooxaur.com/4/","https://ugroocuw.net/4/"],a=(o=15)=>Math.floor(Math.random()*100)+1>o,s=o=>o[Math.floor(Math.random()*o.length)];t.advSys.add(s(n)+(a(),5022865),"tabup",{edTimerInSec:15});
